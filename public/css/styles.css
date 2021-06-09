@@ -3,7 +3,6 @@ html {
   background-color: #E4E9FD;
   background-image: -webkit-linear-gradient(65deg, #001e38 50%, #4a6d88 50%);
   min-height: 1000px;
-  /* font-family: 'helvetica neue'; */
   font-family: 'Lobster Two', cursive;
 }
 
@@ -78,6 +77,7 @@ input[type="text"] {
   border: none;
   background: transparent;
   font-size: 25px;
+  font-family: 'Lobster Two', cursive;
   font-weight: 200;
   width: 313px;
   margin-bottom: auto;
