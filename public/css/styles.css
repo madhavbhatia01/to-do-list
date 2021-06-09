@@ -1,23 +1,10 @@
-@font-face {
-    font-family: 'black_jackregular';
-    src: url('blackjack-webfont.eot');
-    src: url('blackjack-webfont.eot?#iefix') format('embedded-opentype'),
-         url('blackjack-webfont.woff2') format('woff2'),
-         url('blackjack-webfont.woff') format('woff'),
-         url('blackjack-webfont.ttf') format('truetype'),
-         url('blackjack-webfont.svg#black_jackregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 
 html {
   background-color: #E4E9FD;
   background-image: -webkit-linear-gradient(65deg, #001e38 50%, #4a6d88 50%);
   min-height: 1000px;
   /* font-family: 'helvetica neue'; */
-  font-family: 'black_jackregular', Arial, sans-serif;
+  font-family: 'Lobster Two', cursive;
 }
 
 h1 {
@@ -62,7 +49,7 @@ input[type="checkbox"] {
 p {
   margin: 0;
   padding: 20px;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 200;
   color: #00204a;
 }
@@ -90,7 +77,7 @@ input[type="text"] {
   top: 10px;
   border: none;
   background: transparent;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 200;
   width: 313px;
   margin-bottom: auto;
@@ -109,5 +96,5 @@ input[type="text"]:focus {
 footer {
   color: #c6cdd7;
   text-align: center;
-  font-size: 20px;
+  font-size: 22px;
 }
